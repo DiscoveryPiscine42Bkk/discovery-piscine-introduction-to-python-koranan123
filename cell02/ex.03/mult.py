@@ -8,6 +8,6 @@ if result > 0:
 else result < 0:
     print("the result is negative.")
 else:
-    print("the result is zero.")
+     print("the result is zero.")
 
 print(f"the result of multiplying {num1}and {num2} is: {result}")
